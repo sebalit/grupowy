@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/includes/handlers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
@@ -46,11 +46,11 @@
       <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\includes\handlers" />
+      <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\assets\js" />
       <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\assets" />
       <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\assets\css" />
       <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\includes" />
-      <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\assets\images" />
-      <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\includes\classes" />
     </key>
   </component>
   <component name="SvnConfiguration">
