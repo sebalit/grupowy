@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79d05722-2929-4a07-9cdf-db3f18baee37" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="79d05722-2929-4a07-9cdf-db3f18baee37" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,21 +34,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/includes" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe" />
       <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\includes\classes" />
       <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\includes" />
-      <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\includes" />
+      <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe" />
       <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\includes\handlers" />
       <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\assets\js" />
       <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\assets" />
-      <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\assets\css" />
-      <recent name="D:\Pliki programow\XAMPP\htdocs\grupowe\includes" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -64,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594147766668</updated>
       <workItem from="1594147767914" duration="2609000" />
-      <workItem from="1594211025782" duration="1929000" />
+      <workItem from="1594211025782" duration="2228000" />
     </task>
     <servers />
   </component>
